@@ -1,2 +1,6 @@
 *.crt
 *.key
+mosquitto/certs/
+mosquitto/data/
+mosquitto/log/
+cam-www/node_modules/
